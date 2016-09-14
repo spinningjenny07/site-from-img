@@ -1,0 +1,45 @@
+body {
+	background-color: #cccccc;
+	color: blue;
+}
+
+.title {
+	padding-left: 20px;
+}
+
+.table {
+	color: black;
+}
+.right, .center, .left {
+	border: 1px;
+	border-style: dotted;
+	border-color: blue;
+	margin: 2px;
+	vertical-align: center;
+	background-color: white;
+}
+
+.left {
+	padding: 30px 20px 70px 20px;
+	width: 25%;
+}
+
+.center {
+	padding: 30px 20px 0 20px;
+	width: 60%;
+}
+
+.lake_pic {
+	width: 100%;
+	text-align: center;
+}
+
+.right {
+	width: 15%;
+	padding: 10px 10px 250px 20px;
+}
+
+.footer {
+	text-align: center;
+	color: black;
+}
